@@ -17,14 +17,30 @@ Skills
 
 EDUCATION
 Bachelor of Computer Applications (BCA)
-2021 - 2024
+2021 - 2024 | Completed
 SRIDORA CACULO COLLEGE OF COMMERCE & MANAGEMENT STUDIES
 
-Projects
-OSINT Recon Toolkit
 
-  Description: Python-based OSINT toolkit with modules for Domain, IP, Email, Social Media, and Password OSINT.
-  Project Repository: Link to repo
+ST Theresa Higher Secondary School | ARTs stream
+2019-2021 | Completed
+
+Cyber Security Intern
+I did a three-month internship at Avanteia. I learned about various website attacks, such as SQLI, XSS, CSRF, SSRF, Business Logic Vulnerabilities, Brute force, Clickjacking, and Path Traversal. I also learned how to gather info about a website. I used scanning tools, like OWASP ZAP, OpenVAS, NESSUS, and WPscan. I am familiar with Windows, Kali Linux, and Parrot OS. I am also familiar with Burp Suite, Metasploit, Nmap, etc.
+Work Experience
+Avanteia | May-2024  - July 2024(3 months)
+
+
+Projects
+Encryption and Decryption using RSA and Fernet
+Developed encryption and decryption functionality using RSA (asymmetric encryption) and Fernet (symmetric encryption).
+Cybersecurity Tools 
+Created an educational video on cybersecurity tools including Nmap, Nikto, BeEf, OpenSSL, tcpick, Wireshark, etc. demonstrating their usage in penetration testing, vulnerability scanning, and network analysis.
+Random Password Generator
+Developed a tool that generates random passwords with different types of characters.
+Keylogger
+I’ve developed a Simple Keylogger using      Python’s powerful pynput library.
+
+
 
 VAPT Scanning Website
 
