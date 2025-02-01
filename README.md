@@ -15,8 +15,10 @@ Skills
   tools:-
 
 
-
-
+EDUCATION
+Bachelor of Computer Applications (BCA)
+2021 - 2024
+SRIDORA CACULO COLLEGE OF COMMERCE & MANAGEMENT STUDIES
 
 Projects
 OSINT Recon Toolkit
