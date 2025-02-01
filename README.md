@@ -1,20 +1,24 @@
-Hi, I'm Kartik!
+Hi, I'm Kartik Gupta!
 
 Cybersecurity Specialist | OSINT Expert | Penetration Tester
 Passionate about Ethical Hacking, VAPT, and Cyber Defense.
-About Me
 
-  Education: B.C.A. Graduate | Pursuing M.Sc. in Cybersecurity
-  Specialties: Networking, Penetration Testing, Bug Bounty, OSINT
-  Content Creator: Cybersecurity tutorials on s3cure83
+I'm Kartik
+Penetration Tester
+
+I am a cybersecurity professional with hands-on experience as an intern at Avanteia, where I developed skills in network security and vulnerability assessment. I have worked on projects like a Port Scanner, Keylogger, and Password Generator, enhancing my knowledge of ethical hacking and security tools. I am passionate about cybersecurity and actively seek opportunities to apply my skills and grow.
 
 Skills
 
-  Languages: Python
+  Languages: Python, bash, javascript, PowerShell, 
   Cybersecurity: VAPT, Vulnerability Assessment, Penetration Testing
-  OSINT Tools: ExifTool, Recon-ng, SpiderFoot, FinalRecon
+  tools:-
 
-Key Projects
+
+
+
+
+Projects
 OSINT Recon Toolkit
 
   Description: Python-based OSINT toolkit with modules for Domain, IP, Email, Social Media, and Password OSINT.
@@ -40,11 +44,7 @@ Resume
 Click here to view my resume
 Educational Content
 
-I create videos explaining cybersecurity concepts:
 
-  DVWA Vulnerabilities: SQL Injection, CSRF, and more.
-  OSINT Techniques: Recon tools, search engine dorks, and social media investigations.
-  Check out my channel: s3cure83
 
 Connect with Me
 
