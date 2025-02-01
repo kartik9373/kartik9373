@@ -66,5 +66,5 @@ Educational Content
 
 Connect with Me
 
-  LinkedIn
+   <a href="https://www.linkedin.com/in/kartikgupta007" class="fab fa-linkedin" aria-label="LinkedIn" target="_blank"></a>
   YouTube
