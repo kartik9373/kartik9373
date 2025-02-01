@@ -3,8 +3,8 @@ Hi, I'm Kartik Gupta!
 Cybersecurity Specialist | OSINT Expert | Penetration Tester
 Passionate about Ethical Hacking, VAPT, and Cyber Defense.
 
-I'm Kartik
-Penetration Tester
+
+About Me
 
 I am a cybersecurity professional with hands-on experience as an intern at Avanteia, where I developed skills in network security and vulnerability assessment. I have worked on projects like a Port Scanner, Keylogger, and Password Generator, enhancing my knowledge of ethical hacking and security tools. I am passionate about cybersecurity and actively seek opportunities to apply my skills and grow.
 
