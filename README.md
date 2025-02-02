@@ -40,15 +40,6 @@ Developed a tool that generates random passwords with different types of charact
 Keylogger
 I’ve developed a Simple Keylogger using      Python’s powerful pynput library.
 
-
-
-VAPT Scanning Website
-
-  Description: A web-based tool for Vulnerability Assessment and Penetration Testing (VAPT).
-  Technologies: Python, PHP, SQL
-  Features: Automated scans, detailed vulnerability reports, and remediation guides.
-  Project Repository: Link to repo
-
 Certifications
 
   AVANTEIA CERTIFIED CYBER SECURITY USER
@@ -71,7 +62,7 @@ Connect with Me
    <a href="https://linkedin.com/https://www.linkedin.com/in/kartikgupta007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kartikgupta007" height="30" width="40" /></a>
 
 
-   <a href="https://instagram.com/https://www.instagram.com/in/kartikgupta9014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kartikgupta9014" height="30" width="40" /></a>
+   <a href="https://www.instagram.com/in/kartikgupta9014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kartikgupta9014" height="30" width="40" /></a>
 </p>
 
   YouTube
