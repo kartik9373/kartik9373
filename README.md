@@ -51,18 +51,13 @@ Certifications
 Resume
 
 Click here to view my resume
-Educational Content
+
+
 
 
 
 Connect with Me
 
-   <a href="https://twitter.com/kartikg91125649" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikg91125649" height="30" width="40" /></a>
-
-   <a href="https://linkedin.com/https://www.linkedin.com/in/kartikgupta007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kartikgupta007" height="30" width="40" /></a>
-
-
-   <a href="https://www.instagram.com/in/kartikgupta9014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kartikgupta9014" height="30" width="40" /></a>
+   <a href="https://twitter.com/kartikg91125649" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikg91125649" height="30" width="40" /></a><a href="https://linkedin.com/https://www.linkedin.com/in/kartikgupta007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kartikgupta007" height="30" width="40" /></a><a href="https://www.instagram.com/in/kartikgupta9014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kartikgupta9014" height="30" width="40" /></a>
 </p>
 
-  YouTube
